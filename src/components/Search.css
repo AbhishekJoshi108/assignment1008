@@ -1,0 +1,27 @@
+.form .inputs{
+    /* border: 1px solid rgb(28, 3, 3); */
+    /* outline: none; */
+    border-radius: 50px;
+    height: 55px;
+    text-indent: 33px;
+    /* border-radius: 30px; */
+    
+}
+.form .inputs:focus{
+    box-shadow: none;
+    /* border:none; */
+}
+
+.form{
+
+    position: relative;
+}
+
+.form .fas{
+
+    position: absolute;
+    top:20px;
+    left: 20px;
+    color: #9ca3af;
+
+}

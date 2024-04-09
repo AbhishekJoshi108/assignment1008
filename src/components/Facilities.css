@@ -1,0 +1,7 @@
+.icon{
+    align-items: center;
+    color: rgba(225, 0, 255, 0.92);
+}
+.card{
+    display: flex;
+}
